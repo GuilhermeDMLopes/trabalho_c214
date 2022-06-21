@@ -1,8 +1,8 @@
-import 'package:controle_estoque_c317_flutter/Cabecalho.dart';
-import 'package:controle_estoque_c317_flutter/DAO/DatabaseHelper.dart';
+import 'package:trabalho_c214/Cabecalho.dart';
+import 'package:trabalho_c214/DAO/DatabaseHelper.dart';
 //import 'package:controle_estoque_c317_flutter/DAO/FornecedorDAO.dart';
-import 'package:controle_estoque_c317_flutter/model/Fornecedor.dart';
-import 'package:controle_estoque_c317_flutter/model/Produto.dart';
+import 'package:trabalho_c214/model/Fornecedor.dart';
+import 'package:trabalho_c214/model/Produto.dart';
 import 'package:flutter/material.dart';
 
 import 'package:intl/intl.dart';
