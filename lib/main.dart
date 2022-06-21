@@ -1,4 +1,4 @@
-import 'package:controle_estoque_c317_flutter/telas/TelaLogin.dart';
+import 'package:trabalho_c214/telas/TelaLogin.dart';
 import 'package:flutter/material.dart';
 import 'telas/TelaPrincipal.dart';
 
