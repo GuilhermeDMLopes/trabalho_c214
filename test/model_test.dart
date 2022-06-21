@@ -57,12 +57,11 @@ void main()   {
     Fornecedor fornecedor = Fornecedor("Fornecedor Teste", "Sao Paulo",
         DateTime.now().toString() );
 
-    Produto produto = Produto("Coca Cola", "200", DateTime.now().toString(),
-        fornecedor.nome_fornecedor);
+    Produto produto = Produto("Coca Cola", "200", DateTime.now().toString());
 
     expect(produto.nome_produto, "Coca Cola");
     expect(produto.quantidade, "200");
-    expect(produto.fornecedor, "Fornecedor Teste");
+    //expect(produto.fornecedor, "Fornecedor Teste");
 
   });
 
@@ -70,24 +69,22 @@ void main()   {
     Fornecedor fornecedor = Fornecedor("Fornecedor Teste", "Sao Paulo",
         DateTime.now().toString() );
 
-    Produto produto = Produto("Coca Cola", "200", DateTime.now().toString(),
-        fornecedor.nome_fornecedor);
+    Produto produto = Produto("Coca Cola", "200", DateTime.now().toString());
 
     expect(produto.nome_produto!= null, true);
     expect(produto.quantidade!= null, true);
-    expect(produto.fornecedor!= null, true);
+    //expect(produto.fornecedor!= null, true);
 
   });
   test('produtolenght', ()  {
     Fornecedor fornecedor = Fornecedor("Fornecedor Teste", "Sao Paulo",
         DateTime.now().toString() );
 
-    Produto produto = Produto("Coca Cola", "200", DateTime.now().toString(),
-        fornecedor.nome_fornecedor);
+    Produto produto = Produto("Coca Cola", "200", DateTime.now().toString());
 
     expect(produto.nome_produto?.length, 9);
     expect(produto.quantidade?.length, 3);
-    expect(produto.fornecedor?.length, 16);
+    //expect(produto.fornecedor?.length, 16);
 
   });
 
