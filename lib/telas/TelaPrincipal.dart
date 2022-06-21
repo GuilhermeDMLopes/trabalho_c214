@@ -1,14 +1,14 @@
 
 
-import 'package:controle_estoque_c317_flutter/Cabecalho.dart';
-import 'package:controle_estoque_c317_flutter/DAO/DatabaseHelper.dart';
-import 'package:controle_estoque_c317_flutter/model/Produto.dart';
-import 'package:controle_estoque_c317_flutter/telas/TelaHelp.dart';
-import 'package:controle_estoque_c317_flutter/telas/TelaFornecedor.dart';
-import 'package:controle_estoque_c317_flutter/telas/TelaContato.dart';
+import 'package:trabalho_c214/Cabecalho.dart';
+import 'package:trabalho_c214/DAO/DatabaseHelper.dart';
+import 'package:trabalho_c214/model/Produto.dart';
+import 'package:trabalho_c214/telas/TelaHelp.dart';
+import 'package:trabalho_c214/telas/TelaFornecedor.dart';
+import 'package:trabalho_c214/telas/TelaContato.dart';
 //import 'package:controle_estoque_c317_flutter/telas/TelaLogin.dart';
 //import 'package:controle_estoque_c317_flutter/factory/FactoryConnection.dart';
-import 'package:controle_estoque_c317_flutter/telas/TelaProduto.dart';
+import 'package:trabalho_c214/telas/TelaProduto.dart';
 import 'package:flutter/material.dart';
 // 6AB633
 class TelaPrincipal extends StatefulWidget {
