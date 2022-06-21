@@ -1,6 +1,6 @@
 import 'package:trabalho_c214/Cabecalho.dart';
 import 'package:trabalho_c214/model/Fornecedor.dart';
-//import 'package:controle_estoque_c317_flutter/DAO/ProdutoDAO.dart';
+//import 'package:trabalho_c214/DAO/ProdutoDAO.dart';
 
 import 'package:dropdown_button2/dropdown_button2.dart';
 

@@ -1,4 +1,4 @@
-# controle_estoque_c317_flutter
+# Trabalho C214 - Controle de Estoque
 
 A new Flutter application.
 

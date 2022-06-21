@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "flutterapp" "\0"
-            VALUE "FileDescription", "controle_estoque_c317_flutter" "\0"
+            VALUE "FileDescription", "trabalho_c214" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "controle_estoque_c317_flutter" "\0"
+            VALUE "InternalName", "trabalho_c214" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 flutterapp. All rights reserved." "\0"
-            VALUE "OriginalFilename", "controle_estoque_c317_flutter.exe" "\0"
-            VALUE "ProductName", "controle_estoque_c317_flutter" "\0"
+            VALUE "OriginalFilename", "trabalho_c214.exe" "\0"
+            VALUE "ProductName", "trabalho_c214" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

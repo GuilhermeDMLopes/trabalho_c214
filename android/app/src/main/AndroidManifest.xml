@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="flutterapp.controle_estoque_c317_flutter">
+    package="flutterapp.trabalho_c214">
    <application
-        android:label="controle_estoque_c317_flutter"
+        android:label="trabalho_c214"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,7 +1,7 @@
 //
-//import 'package:controle_estoque_c317_flutter/model/Fornecedor.dart';
+//import 'package:trabalho_c214/model/Fornecedor.dart';
 //import 'package:sqflite/sqflite.dart';
-//import 'package:controle_estoque_c317_flutter/factory/FactoryConnection.dart';
+//import 'package:trabalho_c214/factory/FactoryConnection.dart';
 //import 'package:path/path.dart';
 //
 //

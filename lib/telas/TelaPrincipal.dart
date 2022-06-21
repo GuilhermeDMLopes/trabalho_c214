@@ -6,8 +6,8 @@ import 'package:trabalho_c214/model/Produto.dart';
 import 'package:trabalho_c214/telas/TelaHelp.dart';
 import 'package:trabalho_c214/telas/TelaFornecedor.dart';
 import 'package:trabalho_c214/telas/TelaContato.dart';
-//import 'package:controle_estoque_c317_flutter/telas/TelaLogin.dart';
-//import 'package:controle_estoque_c317_flutter/factory/FactoryConnection.dart';
+//import 'package:trabalho_c214/telas/TelaLogin.dart';
+//import 'package:trabalho_c214/factory/FactoryConnection.dart';
 import 'package:trabalho_c214/telas/TelaProduto.dart';
 import 'package:flutter/material.dart';
 // 6AB633
