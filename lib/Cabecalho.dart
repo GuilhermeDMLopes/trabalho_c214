@@ -4,7 +4,7 @@ import 'package:controle_estoque_c317_flutter/model/Produto.dart';
 import 'package:controle_estoque_c317_flutter/telas/TelaLogin.dart';
 import 'package:controle_estoque_c317_flutter/telas/TelaPrincipal.dart';
 import 'package:badges/badges.dart';
-import 'package:controle_estoque_c317_flutter/telas/TelaProdutosAcabando.dart';
+import 'package:trabalho_c214/telas/TelaProdutosAcabando.dart';
 import 'package:flutter/material.dart';
 
 class Cabecalho {
