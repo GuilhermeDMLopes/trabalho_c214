@@ -3,7 +3,7 @@ import 'package:controle_estoque_c317_flutter/model/Fornecedor.dart';
 import 'package:controle_estoque_c317_flutter/model/Usuario.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
-import 'package:controle_estoque_c317_flutter/model/Produto.dart';
+import 'package:trabalho_c214/model/Produto.dart';
 
 
 
