@@ -1,6 +1,6 @@
-import 'package:controle_estoque_c317_flutter/DAO/DatabaseHelper.dart';
-import 'package:controle_estoque_c317_flutter/model/Usuario.dart';
-import 'package:controle_estoque_c317_flutter/telas/TelaPrincipal.dart';
+import 'package:trabalho_c214/DAO/DatabaseHelper.dart';
+import 'package:trabalho_c214/model/Usuario.dart';
+import 'package:trabalho_c214/telas/TelaPrincipal.dart';
 import 'package:flutter/material.dart';
 
 class TelaLogin extends StatefulWidget {
