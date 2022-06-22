@@ -1,9 +1,13 @@
+import 'package:sqflite/sqflite.dart';
+import 'package:path/path.dart';
 import 'package:trabalho_c214/model/Fornecedor.dart';
 import 'package:trabalho_c214/model/Produto.dart';
 import 'package:trabalho_c214/model/Usuario.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:test/test.dart';
 import 'package:trabalho_c214/DAO/DatabaseHelper.dart';
+
+import 'MockConexaoDB.dart';
 
 void main() {
   test('fornecedorInstancia', () {
@@ -79,5 +83,12 @@ void main() {
     expect(produto.nome_produto?.length, 9);
     expect(produto.quantidade?.length, 3);
     //expect(produto.fornecedor?.length, 16);
+  });
+
+  test('Conexão com o banco', () async {
+    WidgetsFlutterBinding.ensureInitialized();    
+    var dbTest = MockConexaoDB();
+    var conexaoTest = dbTest.inicializarDB();
+    expect(conexaoTest, conexaoTest);
   });
 }
