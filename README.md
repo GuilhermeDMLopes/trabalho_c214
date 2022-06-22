@@ -1,5 +1,6 @@
 # Trabalho C214 - Controle de Estoque
 [![Dart](https://github.com/GuilhermeDMLopes/trabalho_c214/actions/workflows/dart.yml/badge.svg?branch=dev)](https://github.com/GuilhermeDMLopes/trabalho_c214/actions/workflows/dart.yml)
+
 A new Flutter application.
 
 ## Getting Started
