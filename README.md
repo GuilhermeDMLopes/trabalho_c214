@@ -1,5 +1,5 @@
 # Trabalho C214 - Controle de Estoque
-
+[![Dart](https://github.com/GuilhermeDMLopes/trabalho_c214/actions/workflows/dart.yml/badge.svg?branch=dev)](https://github.com/GuilhermeDMLopes/trabalho_c214/actions/workflows/dart.yml)
 A new Flutter application.
 
 ## Getting Started
@@ -13,6 +13,7 @@ A few resources to get you started if this is your first Flutter project:
 
 
 ### Flutter
+
 <p>APP desenvovido em flutter com lingaugem dart e SQLite para persistencia de dados</p>
 :mag_right: Descricao
 
@@ -43,4 +44,9 @@ Pra dar upgrade:
  choco upgrade dart-sdk
 ```
 choco upgrade dart-sdk
+
+Para clonar o projeto 
+```
+ git clone https://github.com/GuilhermeDMLopes/trabalho_c214.git
+```
  
